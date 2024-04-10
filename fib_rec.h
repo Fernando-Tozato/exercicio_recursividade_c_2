@@ -2,7 +2,6 @@
 #include <stdlib.h>
 
 long fib_rec(int n) {
-    long f1, f2, f3;
     if (n <= 1){
         return n;
     } else {
