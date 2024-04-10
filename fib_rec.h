@@ -23,4 +23,4 @@ void principal_fib_rec() {
     printf("\n\n\n");
 }
 
-// complexidade O(n)
+// complexidade O(n^n)
