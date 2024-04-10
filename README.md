@@ -1,1 +1,1 @@
-# exercicio_recursividade_c_2
+Este foi um exercício da faculdade.
